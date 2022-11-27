@@ -1,0 +1,28 @@
+{
+  "name": "ajs-esm",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugagi67/ajs-ESM.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Дмитрий Грешнов",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugagi67/ajs-ESM/issues"
+  },
+  "homepage": "https://github.com/bugagi67/ajs-ESM#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "live": "^0.1.25-beta.0",
+    "server": "^1.0.37"
+  }
+}
